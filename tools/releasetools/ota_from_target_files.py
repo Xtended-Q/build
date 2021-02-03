@@ -844,10 +844,6 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("--------------------------------------------------");
   script.Print("              Get Ready To Be Xtended             ");
   script.Print("--------------------------------------------------");
-  script.Print("                 __  __ ___ __  __                ");
-  script.Print("                |  \/  / __|  \/  |               ");
-  script.Print("                | |\/| \__ \ |\/| |               ");
-  script.Print("                |_|  |_|___/_|  |_|               ");
   script.Print("____  ___ __                     .___         .___");
   script.Print("\   \/  //  |_  ____   ____    __| _/____   __| _/");
   script.Print(" \     /\   __\/ __ \ /    \  / __ |/ __ \ / __ | "); 
